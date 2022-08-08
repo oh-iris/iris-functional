@@ -4,6 +4,6 @@ enableFeaturePreview("VERSION_CATALOGS")
 // explicitly specify composite build project by include
 includeBuild("build-logic")
 
-rootProject.name = "iris-template"
+rootProject.name = "iris-functional"
 
 include("app", "base", "library")
