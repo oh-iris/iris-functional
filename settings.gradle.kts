@@ -5,6 +5,6 @@ enableFeaturePreview("VERSION_CATALOGS")
 includeBuild("gradle-dependencies")
 includeBuild("gradle-plugin")
 
-rootProject.name = "iris-template"
+rootProject.name = "iris-functional"
 
 include("app", "base", "library")
