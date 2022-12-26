@@ -7,4 +7,4 @@ includeBuild("gradle-plugin")
 
 rootProject.name = "iris-functional"
 
-include("app", "base", "library")
+include(":core")
